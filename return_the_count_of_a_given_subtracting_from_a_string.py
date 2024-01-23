@@ -8,3 +8,4 @@
 # Expected Output:
 # Emma appeared 2 times
 
+string = "Julian is a first year computer engineering student. Julian is very handsome person."
